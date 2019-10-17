@@ -1,4 +1,14 @@
-# vc-hosting
+# How to get Azure Application Insights metrics to Excel
+
+![here_AppToEx](AppToEx.jpg)
+
+This is example how to explore your metrics in Excel. 
+1. Download https://github.com/VirtoCommerce/vc-hosting/tree/master/tools/AppInsights-Template.xlsx 
+2. Enable content and authorize as anonymous in first time.
+3. Change API keys to yours.
+4. Update Data.
+
+More instructions you can find https://github.com/VirtoCommerce/vc-hosting/tree/master/docs  
 
 The benefits of this solution.
 1. There is no need to access the Azure portal, you only need an API key.
