@@ -1,6 +1,6 @@
 # How to get Azure Application Insights metrics to Excel
 
-![here_AppToEx](Docs\AppToEx.jpg)
+![here_AppToEx](Docs/AppToEx.jpg)
 
 This is example how to explore your metrics in Excel. 
 1. Download https://github.com/VirtoCommerce/vc-hosting/tree/master/tools/AppInsights-Template.xlsx 
