@@ -8,7 +8,7 @@ This is example how to explore your metrics in Excel.
 3. Change API keys to yours.
 4. Update Data.
 
-More instructions you can find https://github.com/VirtoCommerce/vc-hosting/tree/master/docs  
+More instructions you can find https://github.com/VirtoCommerce/vc-hosting/blob/master/docs/AppInsights-Template.md
 
 The benefits of this solution.
 1. There is no need to access the Azure portal, you only need an API key.
